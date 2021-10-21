@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bludstream
 - 👀 I’m interested in Powershell and Python scripting
-- 🌱 I’m currently learning Ethical Haccking
+- 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on any advise
 
 <!---
